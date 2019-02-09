@@ -1,0 +1,39 @@
+body {
+    font-size: 20px;
+    font-family: 'Lobster', cursive;
+    background-color:pink;
+}
+p {
+color:#EA168E;
+font-size: 24px;
+margin: 30px 0;
+}
+h1 {
+color: lightblue;
+font-size: 24px;
+font-family: 'Lobster', cursive;
+}
+div {
+width: 70%;
+margin: auto;
+padding: 50px;
+background-color: blue;
+box-shadow: 0 0 15px 10px rgba(0,204,255);
+}
+a {
+   text-decoration: none;
+   color: red;
+   display: inline-block;
+   margin: 20px 0;
+   border-bottom: 1px solid transparent;
+   transition: 0.9s ease-in;
+}
+img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+a:hover {
+  border-bottom-color: #929aab;
+  color: blue;
+}
